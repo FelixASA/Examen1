@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="jugar">Jugar</string>
+    <string name="puntajes">Puntajes</string>
+    <string name="opciones">Opciones</string>
+    <string name="boton_terminar">Terminar</string>
+    <string name="boton_pedir">Pedir</string>
+    <string name="num_puntos">Puntos</string>
+    <string-array name="array_turnos">
+        <item>15</item>
+        <item>17</item>
+        <item>21</item>
+    </string-array>
+    <string name="elegir_tema">Tema</string>
+    <string name="elegir_puntos">Puntos para ganar</string>
+    <string name="title_activity_opciones2">Opciones2</string>
+    <string name="title_activity_opciones">Opciones</string>
+    <string name="title_activity_Juego">Juego</string>
+    <string name="title_activity_Puntajes">Puntajes\n</string>
+    <integer name="FontSize">17</integer>
+    <integer name="FontSizePuntos">25</integer>
+    <string name="Reinciar">Reiniciar</string>
+    <string name="Ganador">Ganador:</string>
+</resources>
